@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email me at as6dec@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love anime.
--->[![@aswiniverma's Holopin board](https://holopin.io/api/user/board?user=aswiniverma)](https://holopin.io/@aswiniverma)
+[![@aswiniverma's Holopin board](https://holopin.io/api/user/board?user=aswiniverma)](https://holopin.io/@aswiniverma)
